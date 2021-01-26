@@ -1,0 +1,3 @@
+rootProject.name='AnnotattionAndReflect'
+include ':app'
+include ':libAnno'
